@@ -4,32 +4,31 @@ Se realizó la incorporación de componentes gráficos sobre la ventana principa
 
 * La Ventana incialmente estaba así 
 
-![ventanainicio](link)
+![ventanainicio](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/vistappanel.PNG)
 
 ## Construcción e incorporación de componentes gráficos dentro de Single-Page app.
 
 ### Creación e incorporación Componentes
 
-![carpetas](link)
+![carpetas](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/components.PNG)
 
 * Barra Titulo
 
-![Barratitulo](link)
+![Barratitulo](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/panel%20incio.PNG)
 
 * Barra Navegación
 
-![Barranavegación](link)
+![Barranavegación](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/panelnavegacion.PNG)
 
 * Barra Busqueda
 
-![Barrabusqueda](link)
+![Barrabusqueda](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/panelbusqueda.PNG)
 
 * Panel con la incorporación de los componentes:
 
-![vistageneral](link)
+![vistageneral](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/listasbo.PNG)
 
 * A los botones de la barra navegación se le implemento la acción de cambiar el color de fondo del panel principal 
 
-![ejemplo1](link)
-![ejemplo2](link)
-![ejemplo3](link)
+![ejemplo1](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/inciobo.PNG)
+![ejemplo3](https://github.com/valentinatobo/Componentes-VistaPrincipal-C6/blob/master/imagenes/opcinesbo.PNG)
